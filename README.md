@@ -53,14 +53,24 @@ For example, starting in the map given above:
 the player (“@”) moving left would end up here:
 
 .....0@..S 
+
 ....0..... 
+
 0.....0..0 
+
 ...0....0. 
+
 .F......0. 
+
 .0........ 
+
 .......0.. 
+
 .0.0..0..0 
+
 0......... 
+
 .00.....0. 
+
 
 So we are dealing with the problem of finding a path from S to F, but the reachability relation between points is not the usual one.
